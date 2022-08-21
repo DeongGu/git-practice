@@ -1,0 +1,7 @@
+새로운 기능을 추가하였습니다.
+
+테스트 해보겠습니다.
+
+
+git add specialTec.txt
+git commit -am spec1
