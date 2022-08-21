@@ -1,1 +1,5 @@
-"version 0.0.2";
+"version 0.0.2"
+
+
+커멘드라인으로 저장소와 연결을 해보겠습니다.
+git remote add origin https://github.com/DeongGu/git-practice.git
